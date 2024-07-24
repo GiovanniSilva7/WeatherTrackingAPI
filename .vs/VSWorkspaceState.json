@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WeatherTrackingAPI",
+    "\\WeatherTrackingAPI\\Controllers",
+    "\\WeatherTrackingAPI\\models",
+    "\\WeatherTrackingAPI\\Services"
+  ],
+  "SelectedNode": "\\WeatherTrackingAPI\\models\\User.cs",
+  "PreviewInSolutionExplorer": false
+}
